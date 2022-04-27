@@ -1,6 +1,6 @@
 # Java-Scheduling-Algorithms
 
-There are 3 types of CPU scheduling algorithms:
+3 types of CPU scheduling algorithms are demonstrated:
 1. Round Robin
 2. Non Preemptive SJF
 3. Non Preemptive Priority
